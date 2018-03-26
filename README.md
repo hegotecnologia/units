@@ -1,4 +1,4 @@
-# HEGO - Support
+# HEGO - Units
 
 
 
@@ -12,7 +12,7 @@
 
 ## Install
 ```bash
-composer require hego/support dev-master
+composer require hego/units dev-master
 ```
 
 ## Usage
