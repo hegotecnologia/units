@@ -1,0 +1,26 @@
+{
+    "name": "hego/units",
+    "description": "Um pacote de domínios para sua aplicação Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matheus Gomes",
+            "email": "matheus@hego.com.br"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3",
+        "hego/domains": "dev-develop"
+    },
+    "autoload": {
+        "psr-4": {
+            "HEGO\\Units\\": "src",
+            "HEGO\\Units\\Tests\\": "tests"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
