@@ -12,7 +12,7 @@
 
 ## Install
 ```bash
-composer require hego/units dev-master
+composer require hego/units dev-develop
 ```
 
 ## Usage
