@@ -4,7 +4,7 @@ namespace HEGO\Auth\Providers;
 
 use HEGO\Support\Units\ServiceProvider;
 
-class UnitsServiceProvider extends ServiceProvider
+class UnitServiceProvider extends ServiceProvider
 {
     /**
      * @var string Unit Alias for Translations and Views

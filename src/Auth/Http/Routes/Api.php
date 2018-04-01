@@ -34,7 +34,7 @@ class Api extends Router
     }
 
     /**
-     * Rotas para cadastrar um usuário.
+     * Rotas para cadastrar usuário.
      */
     protected function signUpRoutes()
     {
